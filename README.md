@@ -1,4 +1,6 @@
-### Hi there 👋
+## Contact Us<br>
+If you have any questions related to our app, please contact us.<br>
+Email: <dangtrang1995@outlook.com>
 
 <!--
 **dangtrang1995/dangtrang1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
